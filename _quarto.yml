@@ -5,9 +5,11 @@ book:
   title: "29 days"
   author: "Fatima-Zahra MOUL-EL-KSOUR"
   date: "27/03/2024"
+  toc : true
   chapters:
     - index.qmd
     - intro.qmd
+    - extra.qmd
     - summary.qmd
     - references.qmd
 
