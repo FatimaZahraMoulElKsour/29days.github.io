@@ -20,6 +20,16 @@
     ]
   },
   {
+    "objectID": "extra.html",
+    "href": "extra.html",
+    "title": "2  Middle",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Middle</span>"
+    ]
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
     "title": "3  Summary",
@@ -37,16 +47,6 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "extra.html",
-    "href": "extra.html",
-    "title": "2  Middle",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Middle</span>"
     ]
   }
 ]
